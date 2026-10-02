@@ -15,6 +15,7 @@ I’m passionate about the intersection of algorithms and software engineering. 
 
 | Repository | Link | Description | Tech Stack |
 | :--- | :--- | :--- | :--- |
+| **Papaya 🥭** | [GitHub](https://github.com/rostbear/papaya) | A tiny Python framework for building understandable AI agents with tools, conversation memory, and transparent execution. | `Python` |
 | **TensorForth Interpreter** | [GitHub](https://github.com/rostbear/pap-tensorforth-interpreter) | A stack-based language interpreter with tensor manipulation capabilities. | `C`, `OpenMP` |
 | **2D Renderer** | [GitHub](https://github.com/rostbear/pap-2d-renderer) | Custom 2D rendering engine with tilemaps and sprite management. | `Python`, `JSON` |
 | **ZIP Solver** | [GitHub](https://github.com/rostbear/zip-solver) | Constraint solving application using Z3 theorem prover. | `Python`, `Pygame`, `Z3` |
